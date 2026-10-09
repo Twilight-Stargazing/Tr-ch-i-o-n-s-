@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Môi trường ảo
+venv/
+.venv/
+env/
+
+# File chứa mật khẩu / API key (không bao giờ đăng lên)
+.env
+
+# Editor
+.idea/
+.vscode/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
