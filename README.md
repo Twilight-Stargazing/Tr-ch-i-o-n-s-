@@ -56,4 +56,4 @@ Chính xác! Bạn đã đoán đúng sau 3 lần!
 
 ## Tác giả
 
-Tên của bạn – [GitHub](https://github.com/Twilight-Stargazing)
+Twilight-Stargazing– [GitHub](https://github.com/Twilight-Stargazing)
